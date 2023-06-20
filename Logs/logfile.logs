@@ -1,0 +1,38 @@
+2023-06-20 14:04:06,441:INFO:root:opening browser
+2023-06-20 14:04:06,457:INFO:root:The test_homepage_title passed
+2023-06-20 14:04:10,478:INFO:root:opening browser
+2023-06-20 14:04:13,490:INFO:root:Entering username and password
+2023-06-20 14:04:15,600:INFO:root:checking login status
+2023-06-20 14:04:18,794:INFO:root:checkout
+2023-06-20 14:06:01,492:INFO:root:opening browser
+2023-06-20 14:06:01,508:INFO:root:The test_homepage_title passed
+2023-06-20 14:06:09,084:INFO:root:opening browser
+2023-06-20 14:06:12,085:INFO:root:Entering username and password
+2023-06-20 14:06:22,201:INFO:root:checking login status
+2023-06-20 14:06:25,424:INFO:root:checkout
+2023-06-20 14:25:38,938:INFO:root:opening browser
+2023-06-20 14:25:38,938:INFO:root:The test_homepage_title failed
+2023-06-20 14:25:40,875:INFO:root:opening browser
+2023-06-20 14:25:43,883:INFO:root:Entering username and password
+2023-06-20 14:31:59,204:INFO:root:opening browser
+2023-06-20 14:32:21,409:INFO:root:opening browser
+2023-06-20 14:33:15,166:INFO:root:opening browser
+2023-06-20 14:33:33,611:INFO:root:opening browser
+2023-06-20 14:33:53,537:INFO:root:opening browser
+2023-06-20 14:33:54,882:INFO:root:opening browser
+2023-06-20 14:33:57,891:INFO:root:Entering username and password
+2023-06-20 14:34:39,533:INFO:root:opening browser
+2023-06-20 14:34:40,835:INFO:root:opening browser
+2023-06-20 14:34:43,851:INFO:root:Entering username and password
+2023-06-20 14:35:44,853:INFO:root:opening browser
+2023-06-20 14:35:44,853:INFO:root:The test_homepage_title passed
+2023-06-20 14:35:49,962:INFO:root:opening browser
+2023-06-20 14:35:52,972:INFO:root:Entering username and password
+2023-06-20 14:36:04,160:INFO:root:checking login status
+2023-06-20 14:36:07,303:INFO:root:checkout
+2023-06-20 14:42:39,582:INFO:root:opening browser
+2023-06-20 14:42:39,587:INFO:root:The test_homepage_title passed
+2023-06-20 14:42:45,219:INFO:root:opening browser
+2023-06-20 14:42:48,227:INFO:root:Entering username and password
+2023-06-20 14:42:58,649:INFO:root:checking login status
+2023-06-20 14:43:01,845:INFO:root:checkout
